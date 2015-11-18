@@ -66,6 +66,7 @@ public class MyActivity extends ActionBarActivity
         }
     }
 
+    //Calling application method(s)
     private void setupListeners()
     {
         onOffButton.setOnClickListener(new View.OnClickListener()
